@@ -1,6 +1,6 @@
 ### Well, hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
-
+<!-- 
 I'm **Vlad**, a passionate Web developer 👨‍💻 from Ukraine, who is in constant development. I consider myself as a junior frontend developer at the moment. 
 
 I'm open to job opportunities and currently looking for a full-time **Junior Frontend Developer** roles for 2021 🚀.
@@ -99,4 +99,4 @@ These are some of the technologies and tools that I partly familiar with:
 <div style="display: flex; flex-wrap: wrap; align-items: center;">my Codewars progress <img style="margin: 0 5px; height: 25px;" src="https://www.codewars.com/users/5Mountains/badges/micro"></div>
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=5Mountains.5Mountains)
+![](https://visitor-badge.glitch.me/badge?page_id=5Mountains.5Mountains) -->
