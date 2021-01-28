@@ -4,7 +4,7 @@ I'm **Vlad**, a passionate Web developer 👨‍💻 from Ukraine, who is in con
 
 I'm open to job opportunities and currently looking for a full-time **Junior Frontend Developer** roles for 2021 🚀.
 
-**Resume** of mine is on the disk: <a target="blank" href="https://docs.google.com/document/d/1b6_NxlZVNVDxBH2KlKwxs7kGNBxulaz1eVIOf64qUCY/edit"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" height="25" width="25"></a>
+**Resume** of mine is on the disk: <a target="blank" href="https://drive.google.com/file/d/106ZsHxNPDnmoyfFCAOs_xIazu6Ag7wRF/view"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" height="25" width="25"></a>
 
 <p>You could get in touch with me: 
   <a target="blank" href="https://www.linkedin.com/in/vlad-piatyhor-8b227b113"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30"></a> <a target="blank" href="https://join.skype.com/invite/vTTFQ6hD9T2V"><img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" height="30" width="30"></a> <a target="blank" href="https://t.me/VladPiatyhor"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="30" width="30"></a> <a target="blank" href="mailto:vlad.piatyhor@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"></a>
@@ -86,7 +86,7 @@ These are a **bunch of pet-projects** that I have done during my studies 🎓:
 - [x] I was also partially trained under the guidance of an experienced [mentor](https://github.com/SpiritUrban) 🧐,
 - [x] I completed ["JavaScript v.2.0"](https://itgid.info/course/javascript-2)  and ["JS OOP"](https://itgid.info/course/object-js)  courses from [<img src="https://itgid.info/img/logo-ico.png" width="18px"> ItGid](https://itgid.info/), 
 - [x] I recently finished ["Self-study"](https://github.com/kottans/frontend/blob/master/contents.md) part of the ["Frontend"](https://github.com/kottans/frontend) course  from the [<img src="https://kottans.org/documentation/img/logoBlack.svg" width="20px"> Kottans](https://kottans.org/) developers community,
-- [x] I have successfully accomplished my ["Frontend"](https://mate.academy/courses/frontend) course from the [<img src="https://avatars0.githubusercontent.com/u/28379899?s=200&v=4" width="15px"> Mate Academy](https://mate.academy/).
+- [x] I have successfully accomplished my ["Frontend"](https://mate.academy/) course from the [<img src="https://avatars0.githubusercontent.com/u/28379899?s=200&v=4" width="15px"> Mate Academy](https://mate.academy/).
 Furthermore, I became a part of these communities and continue participating in the life and activities of these gangs 🤟.
 
 ***
