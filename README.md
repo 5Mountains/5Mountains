@@ -1,10 +1,10 @@
 # Well, hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm **Vlad**, a passionate Web developer 👨‍💻 from Ukraine, who is in constant development. I consider myself as a junior frontend developer at the moment. 
+I'm **Vlad**, a passionate Front-end Web developer 👨‍💻 from Ukraine, who is in constant development.
 
-I'm open to job opportunities and currently looking for a full-time **Junior Frontend Developer** roles for 2021 🚀.
+I'm open to job opportunities and currently looking for a full-time **Frontend Developer** roles for 2021 🚀.
 
-**Resume** of mine is on the disk: <a target="blank" href="https://drive.google.com/file/d/106ZsHxNPDnmoyfFCAOs_xIazu6Ag7wRF/view"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" height="25" width="25"></a>
+**Resume** of mine is on the disk: <a target="blank" href="https://drive.google.com/file/d/1lLJW-UDstpvmcj3de-tcpa_jHRdyxPso/view?usp=sharing"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" height="25" width="25"></a>
 
 <p>You could get in touch with me: 
   <a target="blank" href="https://www.linkedin.com/in/vlad-piatyhor-8b227b113"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30"></a> <a target="blank" href="https://join.skype.com/invite/vTTFQ6hD9T2V"><img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" height="30" width="30"></a> <a target="blank" href="https://t.me/VladPiatyhor"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="30" width="30"></a> <a target="blank" href="mailto:vlad.piatyhor@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"></a>
@@ -55,7 +55,10 @@ Codewars progress of mine:
 
 ***
 
-These are a **bunch of pet-projects** that I have done during my studies 🎓:
+These are a bunch of **commercial and pet-projects** that I have done:
+
+✔️ I had some **freelance** experience where I was able tested Node.js and Express.js:
+  - Newborn site - link to the [code](https://github.com/5Mountains/newbornSite) :open_file_folder: and to the [app](http://alinapiatyhor.com/) :mag:
 
 ✔️ Using HTML, SCSS, BEM & Responsive patterns:
   - Museum NAMU - link to the [code](https://github.com/5Mountains/Museum-NAMU) :open_file_folder: / to the [app](https://5mountains.github.io/Museum-NAMU/) :mag:
@@ -72,11 +75,9 @@ These are a **bunch of pet-projects** that I have done during my studies 🎓:
   - Todo list - appears soon
   - Movie API search - appears soon
 
-✔️ I had minor experience with using Angular:
+✔️ Also, I had minor experience with using Angular:
   - Users list - link to the [code](https://github.com/5Mountains/users-list)
 
-✔️ Also, I had some **freelance** experience where I was able tested Node.js and Express.js:
-  - Newborn site - link to the [code](https://github.com/5Mountains/newbornSite) :open_file_folder: and to the [app](http://alinapiatyhor.com/) :mag:
 
 ***
 
