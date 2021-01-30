@@ -4,7 +4,7 @@ I'm **Vlad**, a passionate Front-end Web developer 👨‍💻 from Ukraine, who
 
 I'm open to job opportunities and currently looking for a full-time **Frontend Developer** roles for 2021 🚀.
 
-**Resume** of mine is on the disk: <a target="blank" href="https://drive.google.com/file/d/1lLJW-UDstpvmcj3de-tcpa_jHRdyxPso/view?usp=sharing"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" height="25" width="25"></a>
+**Resume** of mine is on the disk: <a target="blank" href="https://drive.google.com/file/d/1BD-mNnIu83C1VTTbqrK5T-KHyPIUEg0l/view?usp=sharing"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" height="25" width="25"></a>
 
 <p>You could get in touch with me: 
   <a target="blank" href="https://www.linkedin.com/in/vlad-piatyhor-8b227b113"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30"></a> <a target="blank" href="https://join.skype.com/invite/vTTFQ6hD9T2V"><img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" height="30" width="30"></a> <a target="blank" href="https://t.me/VladPiatyhor"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="30" width="30"></a> <a target="blank" href="mailto:vlad.piatyhor@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"></a>
@@ -21,17 +21,18 @@ These are some of the technologies and tools that I work with:
 <p>
   <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3">
-  <img src="https://img.shields.io/badge/SASS / SCSS-black?style=flat&logo=sass">
+  <img src="https://img.shields.io/badge/Sass / SCSS-black?style=flat&logo=sass">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=React">
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub">
-  <img src="https://img.shields.io/badge/VS Code-black?style=flat&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma">
   <img src="https://img.shields.io/badge/Gulp-black?style=flat&logo=gulp">
   <img src="https://img.shields.io/badge/Webpack-black?style=flat&logo=webpack">
   <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm">
   <img src="https://img.shields.io/badge/shell / bush-black?style=flat&logo=powershell">
+  <img src="https://img.shields.io/badge/VS Code-black?style=flat&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma">
+  <img src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello">
 </p>
 
 These are some of the technologies and tools that I partly familiar with:
@@ -45,7 +46,6 @@ These are some of the technologies and tools that I partly familiar with:
   <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express">
   <img src="https://img.shields.io/badge/Jira-black?style=flat&logo=jira">
-  <img src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello">
   <img src="https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobe-photoshop">
 </p>
 
