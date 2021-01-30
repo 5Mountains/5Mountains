@@ -24,7 +24,6 @@ These are some of the technologies and tools that I work with:
   <img src="https://img.shields.io/badge/SASS / SCSS-black?style=flat&logo=sass">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=React">
-  <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux">
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub">
   <img src="https://img.shields.io/badge/VS Code-black?style=flat&logo=visual-studio-code">
@@ -41,6 +40,7 @@ These are some of the technologies and tools that I partly familiar with:
   <img src="https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap"> 
   <img src="https://img.shields.io/badge/Bulma-black?style=flat&logo=bulma">
   <img src="https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery">
+  <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux">
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript">
   <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express">
@@ -84,9 +84,9 @@ These are a **bunch of pet-projects** that I have done during my studies 🎓:
 - [x] I'm mostly self-taught 📚 hundreds upon hundreds of study hours through educational resources such as:
  [<img src="https://simpleicons.org/icons/udacity.svg" width="15px"> Udacity](https://www.udacity.com/), [<img src="https://simpleicons.org/icons/htmlacademy.svg" width="15px"> HTML Academy](https://htmlacademy.ru/), [<img src="https://simpleicons.org/icons/freecodecamp.svg" width="15px"> freeCodeCamp](https://www.freecodecamp.org/5mountains), [<img src="https://simpleicons.org/icons/codecademy.svg" width="15px"> Codecademy](https://www.codecademy.com/), [<img src="https://simpleicons.org/icons/codewars.svg" width="15px"> Codewars](https://www.codewars.com/users/5Mountains), [<img src="https://simpleicons.org/icons/leetcode.svg" width="15px"> LeetCode](https://leetcode.com/5Mountains/), [<img src="https://simpleicons.org/icons/youtube.svg" width="15px"> Youtube](https://leetcode.com/5Mountains/) ect.,
 - [x] I was also partially trained under the guidance of an experienced [mentor](https://github.com/SpiritUrban) 🧐,
-- [x] I completed ["JavaScript v.2.0"](https://itgid.info/course/javascript-2)  and ["JS OOP"](https://itgid.info/course/object-js)  courses from [<img src="https://itgid.info/img/logo-ico.png" width="18px"> ItGid](https://itgid.info/), 
-- [x] I recently finished ["Self-study"](https://github.com/kottans/frontend/blob/master/contents.md) part of the ["Frontend"](https://github.com/kottans/frontend) course  from the [<img src="https://kottans.org/documentation/img/logoBlack.svg" width="20px"> Kottans](https://kottans.org/) developers community,
-- [x] I have successfully accomplished my ["Frontend"](https://mate.academy/) course from the [<img src="https://avatars0.githubusercontent.com/u/28379899?s=200&v=4" width="15px"> Mate Academy](https://mate.academy/).
+- [x] I have taken the ["JavaScript v.2.0"](https://itgid.info/course/javascript-2) and ["JS OOP"](https://itgid.info/course/object-js) programs from the [<img src="https://itgid.info/img/logo-ico.png" width="18px"> ItGid](https://itgid.info/) authoring courses, 
+- [x]  I participated in the ["Self-study"](https://github.com/kottans/frontend/blob/master/contents.md) part of the ["Frontend"](https://github.com/kottans/frontend) course  from the [<img src="https://kottans.org/documentation/img/logoBlack.svg" width="20px"> Kottans](https://kottans.org/) developers community,
+- [x] I have been studying the ["Frontend"](https://mate.academy/) program from the [<img src="https://avatars0.githubusercontent.com/u/28379899?s=200&v=4" width="15px"> Mate Academy](https://mate.academy/).
 Furthermore, I became a part of these communities and continue participating in the life and activities of these gangs 🤟.
 
 ***
