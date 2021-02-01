@@ -72,8 +72,10 @@ These are a bunch of **commercial and pet-projects** that I have done:
   - Memory pair game - appears soon
  
 ✔️ Using React:
+  - GitHub users search - link to the [code](https://github.com/5Mountains/github-search) :open_file_folder: / to the [app](https://5mountains.github.io/github-search/) :mag: 
   - Todo list - appears soon
   - Movie API search - appears soon
+
 
 ✔️ Also, I had minor experience with using Angular:
   - Users list - link to the [code](https://github.com/5Mountains/users-list)
