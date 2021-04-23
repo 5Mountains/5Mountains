@@ -33,6 +33,10 @@ These are some of the technologies and tools that I work with:
   <img src="https://img.shields.io/badge/VS Code-black?style=flat&logo=visual-studio-code">
   <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma">
   <img src="https://img.shields.io/badge/Trello-black?style=flat&logo=trello">
+  <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab">
+  <img src="https://img.shields.io/badge/Jira-black?style=flat&logo=jira">
 </p>
 
 These are some of the technologies and tools that I partly familiar with:
@@ -42,12 +46,8 @@ These are some of the technologies and tools that I partly familiar with:
   <img src="https://img.shields.io/badge/Bulma-black?style=flat&logo=bulma">
   <img src="https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery">
   <img src="https://img.shields.io/badge/Angular-black?style=flat&logo=Angular">
-  <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript">
   <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express">
-  <img src="https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab">
-  <img src="https://img.shields.io/badge/Jira-black?style=flat&logo=jira">
   <img src="https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobe-photoshop">
 </p>
 
@@ -105,3 +105,5 @@ Feel free to contact me in case of any questions 👌 -->
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=5Mountains.5Mountains)
+
+P.S.: Since late February I moved to GitLab services because of my job, so that's the reason I'm so inactive here.
