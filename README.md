@@ -106,4 +106,4 @@ Feel free to contact me in case of any questions 👌 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=5Mountains.5Mountains)
 
-P.S.: Since late February I moved to GitLab services because of my job, so that's the reason I'm so inactive here.
+P.S.: Since mid-February I switched to GitLab services because of my occupation, so that's the reason I'm so inactive here.
