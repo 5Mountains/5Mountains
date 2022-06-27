@@ -56,7 +56,7 @@ Codewars progress of mine:
 
 <img src="https://www.codewars.com/users/5Mountains/badges/micro">
 
-<br>
+---
 
 ![](https://visitor-badge.glitch.me/badge?page_id=5Mountains.5Mountains)
 
