@@ -6,11 +6,7 @@ I'm **Vlad**, a passionate Front-end Web developer 👨‍💻 from Ukraine, who
 
 I'm currently focused on cross-platform mobile app development and working on expanding and improving my knowledge around technology as **React Native**, **Redux** & **TypeScript**: <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://camo.githubusercontent.com/fa9e6862458a3f719c8be00fa538a8cea8e4f0c1ea32147fe55c566b0e5f021e/68747470733a2f2f72656475782e6a732e6f72672f696d672f72656475782e737667" alt="typescript" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>
 <br>
-In parallel, I'm well-versed in **HTML**, **CSS**, **JavaScript** and the **React** stack: <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sketch" width="25" height="25"/>
-
-<br>
-
-In nearest future, I'm interested in mastering the **M E R N** stack: <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sketch" width="25" height="25"/>
+In parallel, I'm well-versed in **HTML**, **CSS**, **JavaScript** and the **React** stack: <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="sketch" width="25" height="25"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="sketch" width="25" height="25"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="sketch" width="25" height="25"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sketch" width="25" height="25"/>
 
 <br>
 
