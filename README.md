@@ -56,4 +56,4 @@ Codewars progress of mine:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=5Mountains.5Mountains)
 
-P.S.: Since of mid-February 2021, I switched to GitLab services because of my employment requirements, so that's the reason for my inactivity here.
+P.S.: Since of mid-February 2021, I switched to my company's corporate services (GitLab) due to the demands of my employment, so that's the reason for my inactivity here.
