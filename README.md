@@ -1,6 +1,6 @@
 # Well, hello there! 👋
 
-I'm **Vlad**, a passionate Front-end Web developer 👨‍💻 from Ukraine, who is in constant development.
+I'm **Vlad**, a passionate Front-end developer 👨‍💻 from Canada, who is in constant development.
 
 ---
 
@@ -13,19 +13,22 @@ In parallel, I'm well-versed in **HTML**, **CSS**, **JavaScript** and the **Reac
 These are some of the technologies and tools that I work with:
 
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/React Native-black?style=flat&logo=React">
+  <img src="https://img.shields.io/badge/React-black?style=flat&logo=React">
+  <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux">
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express">
+  <img src="https://img.shields.io/badge/Jest-black?style=flat&logo=jest">
+  <img src="https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql">
   <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3">
   <img src="https://img.shields.io/badge/Sass / SCSS-black?style=flat&logo=sass">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/React Native-black?style=flat&logo=React">
-  <img src="https://img.shields.io/badge/React-black?style=flat&logo=React">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript">
-  <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux">
-  <img src="https://img.shields.io/badge/Jest-black?style=flat&logo=jest">
-  <img src="https://img.shields.io/badge/sentry-black?style=flat&logo=sentry">
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub">
   <img src="https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab">
+  <img src="https://img.shields.io/badge/sentry-black?style=flat&logo=sentry">
   <img src="https://img.shields.io/badge/Gulp-black?style=flat&logo=gulp">
   <img src="https://img.shields.io/badge/Webpack-black?style=flat&logo=webpack">
   <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm">
@@ -43,8 +46,6 @@ These are some of the technologies and tools that I partly familiar with:
   <img src="https://img.shields.io/badge/Bulma-black?style=flat&logo=bulma">
   <img src="https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery">
   <img src="https://img.shields.io/badge/Angular-black?style=flat&logo=Angular">
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js">
-  <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express">
   <img src="https://img.shields.io/badge/Photoshop-black?style=flat&logo=adobe-photoshop">
 </p>
 
